@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nickscottprior
 - 👀 I’m interested in front-end web development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I plan to start learning the back-end later this year
 - 💞️ I’m looking to collaborate on free and open-source software
 - 📫 How to reach me: https://tibetanlanguage.school/about
 
